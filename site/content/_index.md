@@ -33,9 +33,7 @@ intro:
     - 4-H girls are two times more likely (Grade 10) and nearly three times more
     likely (Grade 12) to take part in science programs compared to girls in
     other out-of-school time activities
-projects:
-  - image: /img/vogel-j-rabbit-showmanship-2_orig.jpg
-    text: Rabbits
+projects: []
 events:
   heading: Events
   text: Club Meetings

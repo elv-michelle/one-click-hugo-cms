@@ -19,12 +19,10 @@ intro:
     A recent report from Tufts University shows that 4-H youth excel beyond
     their peers. 4-H’ers are about:
 
-    </br>
 
     - Four times more likely to make contributions to their communities (Grades
     7–12)
 
-    </br>
 
     - Two times more likely to be civic minded and active (Grades 8–12)
 

@@ -21,7 +21,8 @@ intro:
 
 
     - Four times more likely to make contributions to their communities (Grades
-    7–12)<br>
+    7–12)
+
 
     - Two times more likely to be civic minded and active (Grades 8–12)
 

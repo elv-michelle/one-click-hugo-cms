@@ -1,21 +1,38 @@
 ---
-title: Great coffee with a conscience
-subtitle: Support sustainable farming while enjoying a cup
-image: /img/home-jumbotron.jpg
+title: Welcome to Oaktown 4-H
+subtitle: Your Community 4-H  Club for Oakland California
+image: /img/5512596_orig.jpg
 blurb:
-  heading: Why Kaldi?
-  text: >-
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+  heading: What is 4-H?
+  text: >+
+    4-H is an organization for young people and their families focused on
+    positive youth development. The goal of 4-H is to develop citizenship,
+    leadership, responsibility and life skills in youth through experiential
+    learning programs and a positive youth development approach. We strive to
+    engage youth to reach their full potential, working and learning with caring
+    adults. The 4-H motto is “To make the best better”, while its slogan is
+    “Learn by doing”. 
+
 intro:
-  heading: What we offer
+  heading: Why Join 4-H?
   text: >-
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone.
+    A recent report from Tufts University shows that 4-H youth excel beyond
+    their peers. 4-H’ers are about:
+
+
+    - Four times more likely to make contributions to their communities (Grades
+    7–12)
+
+    - Two times more likely to be civic minded and active (Grades 8–12)
+
+    - Two times more likely to make healthier choices (Grade 7)
+
+    - Two times more likely to participate in Science, Engineering and Computer
+    Technology programs during out-of-school time (Grades 10–12) and
+
+    - 4-H girls are two times more likely (Grade 10) and nearly three times more
+    likely (Grade 12) to take part in science programs compared to girls in
+    other out-of-school time activities
 projects:
   - image: /img/vogel-j-rabbit-showmanship-2_orig.jpg
     text: Rabbits

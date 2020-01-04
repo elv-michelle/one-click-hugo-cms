@@ -40,7 +40,7 @@ intro:
     Click [here ](https://oaktown4hclub.org/join)to learn how to Join 4-H!
   heading: Why Join 4-H?
 projects:
-  - body: |-
+  - body: >-
       ## 2020 Projects
 
       * Advanced Baking (11+) Arts & Crafts (5-8 y/o)

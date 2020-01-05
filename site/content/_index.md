@@ -14,24 +14,16 @@ blurb:
     “Learn by doing”. 
 
 intro:
-  body: >-
+  text: >-
     A recent report from Tufts University shows that 4-H youth excel beyond
     their peers. 
-
-
     4-H’ers are about: 
-
-
     * Four times more likely to make contributions to their communities (Grades
     7–12), 
-
     * Two times more likely to be civic minded and active (Grades 8–12), 
-
     * Two times more likely to make healthier choices (Grade 7),
-
     * Two times more likely to participate in Science, Engineering and Computer
     Technology programs during out-of-school time (Grades 10–12), and 
-
     * 4-H girls are two times more likely (Grade 10) and nearly three times more
     likely (Grade 12) to take part in science programs compared to girls in
     other out-of-school time activities.
@@ -40,8 +32,8 @@ intro:
     Click [here ](https://oaktown4hclub.org/join)to learn how to Join 4-H!
   heading: Why Join 4-H?
 projects:
-  - body: >-
-      ## 2020 Projects
+  - text: >-
+      2020 Projects
 
       * Advanced Baking (11+) Arts & Crafts (5-8 y/o)
       * Art (Sketching and Drawing)
@@ -73,7 +65,7 @@ projects:
       * Videography
     image: /img/vogel-j-rabbit-showmanship-2_orig.jpg
 events:
-  body: >-
+  text: >-
     * Oaktown 4-H Club Meeting, January 13, Dimond Park Recreation Center
 
     * Alameda County Presentation Day, February 22, 2020, Sunol Glen Elementary

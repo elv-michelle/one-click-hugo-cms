@@ -16,12 +16,14 @@ blurb:
 intro:
   heading: Why Join 4-H?
   text: >-
-    4-H has many long-term life benefits,  based on its emphasis on life skills
-    learned through hands-on experiences in club activities, community service
-    and individual projects.
+    The goal of 4-H is to develop citizenship, leadership, responsibility and
+    life skills in youth through experiential learning programs and a positive
+    youth development approach. We strive to engage youth to reach their full
+    potential, working and learning with caring adults. The 4-H motto is “To
+    make the best better”, while its slogan is “Learn by doing”.
 products: []
 values:
-  heading: Latest Events
-  text: 4-H'ers contribute to Oaktown Bikes for Tots and Toys for Tots Drive.
+  heading: Latest News
+  text: Oaktown 4-H Volunteers at Bikes for Tots and Oaktown Toy Drive.
 ---
 

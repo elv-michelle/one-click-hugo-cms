@@ -21,7 +21,9 @@ intro:
     youth development approach. We strive to engage youth to reach their full
     potential, working and learning with caring adults. The 4-H motto is “To
     make the best better”, while its slogan is “Learn by doing”.
-products: []
+products:
+  - image: /img/vogel-j-rabbit-showmanship-2_orig.jpg
+    text: Rabbits
 values:
   heading: Latest News
   text: Oaktown 4-H Volunteers at Bikes for Tots and Oaktown Toy Drive.
